@@ -9,6 +9,7 @@ WQD7006 Machine Learning for Data Science
 | Jie Hongsheng | 22064728 |
 | Low Boon Kiat | 17138399 |
 | Mark Nicholas Akyapogu | 22102968 |
+| Yuejing Huang | S2158553 |
 | Zhou Yao | S2177633 |
 
 ### Problem Statement:
