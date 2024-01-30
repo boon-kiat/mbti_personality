@@ -25,6 +25,9 @@ Traditional way of recruitment comes with the need to manually go through numero
 - Contains 8675 rows of data
 - Each row has two columns: Personal social networking posts from forum “PersonalityCafe.com”, MBTI personality type of the users
 
+### Programming Language:
+- Python
+
 ### Methodology:
 - Data pre-processing
 - Natural language processing e.g. stop words removal, lemmatization, TF-IDF
